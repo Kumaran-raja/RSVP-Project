@@ -28,7 +28,7 @@ Make sure you have the following installed on your machine:
    Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Kumaran-raja/RSVP-Project
 
 2.Navigate to the Project Directory:
 
