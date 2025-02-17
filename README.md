@@ -92,3 +92,11 @@ Routes:
 License
 This project is licensed under the MIT License.
 
+# Home:
+![home page.png](outputs/home%20page.png)
+# Register
+![registeration page.png](outputs/registeration%20page.png)
+# Login
+![login page.png](outputs/login%20page.png)
+# Add New Event
+![add new event.png](outputs/add%20new%20event.png)
